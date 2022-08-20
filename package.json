@@ -1,0 +1,23 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "fizzBuzz template to practice your first TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krzyszt0f1/exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krzyszt0f1/exercise/issues"
+  },
+  "homepage": "https://github.com/Krzyszt0f1/exercise#readme",
+  "devDependencies": {
+    "jest": "^28.1.3",
+    "standard": "^17.0.0"
+  }
+}
