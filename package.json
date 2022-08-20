@@ -4,7 +4,14 @@
   "description": "fizzBuzz template to practice your first TDD",
   "main": "index.js",
   "scripts": {
-    "test": "jest --coverage"
+    "test": "standard && jest --coverage"
+  },
+  "standard": {
+    "globals": [
+      "jest",
+      "test",
+      "expect"
+    ]
   },
   "repository": {
     "type": "git",
