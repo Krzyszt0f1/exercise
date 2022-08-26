@@ -19,7 +19,7 @@ fizzBuzz([1, 2, 3]) ==> [1, 2, `fizz`]
 ....
 fizzBuzz([1, 2, 3, 4, 5]) ==> [1, 2, `fizz`, 3, `buzz`]
 ...
-fizzBuzz([10, 11, 12, 13, 14, 15]) ==> [`fizz`, 11, `buzz`, 13, 14, `fizzBuzz`]
+fizzBuzz([10, 11, 12, 13, 14, 15]) ==> [`buzz`, 11, `fizz`, 13, 14, `fizzBuzz`]
 ```
 
 More info on the topic can be found [here](https://en.wikipedia.org/wiki/Fizz_buzz)
